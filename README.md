@@ -1,4 +1,4 @@
-# PyCutee (The PyQt5 Framework) V0.0.1
+# PyCutee (The PyQt5 Framework)
 
 # PROJECT IS NOW ON [PyPi](https://pypi.org/project/PyCutee/0.0.4/)
 
