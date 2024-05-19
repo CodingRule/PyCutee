@@ -1,6 +1,6 @@
 # PyCutee (The PyQt5 Framework) V0.0.1
 
-# PROJECT IS NOW ON PYPI [PyPi](https://pypi.org/project/PyCutee/0.0.4/)
+# PROJECT IS NOW ON [PyPi](https://pypi.org/project/PyCutee/0.0.4/)
 
 PyCutee is a lightweight and stylish framework for PyQt5, designed to simplify the creation of modern and visually appealing graphical user interfaces (GUIs) in Python.
 
